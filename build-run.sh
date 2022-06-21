@@ -1,0 +1,1 @@
+ dotnet run --project src/MyRazor/MyRazor.csproj --urls=http://localhost:5000
